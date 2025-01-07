@@ -1,4 +1,6 @@
 # linuxcmd
+
+curl- for fetching the server and downloading the the files from the server into same dir 
 1.	ls - The most frequently used command in Linux to list directories
 2.	pwd - Print working directory command in Linux
 3.	cd - Linux command to navigate through directories
