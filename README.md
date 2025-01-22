@@ -51,4 +51,4 @@ curl- for fetching the server and downloading the the files from the server into
 48.	top - View active processes live with their system usage
 49.	useradd and usermod - Add a new user or change existing user data
 50.	passwd - Create or update passwords for existing users
-
+  (link [https://drive.google.com/drive/folders/1maPNL_WGp4SGpVPy3Kab7tVd7WfbtXvT] )
