@@ -1,0 +1,1 @@
+Implemented an automated CI/CD pipeline using GitHub Actions, Docker, and Render. Configured GitHub Actions to build and push Docker images to Docker Hub and integrated Render Deploy Hooks for automatic deployments. Secured credentials with GitHub Secrets and optimized the deployment workflow for efficient containerized application rollout without Kubernetes.
